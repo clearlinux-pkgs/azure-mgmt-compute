@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-compute
 Version  : 12.0.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/84/eb/9badfde9c80b462331ca0c567fd892108120374815f0217928f1f02ee811/azure-mgmt-compute-12.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/84/eb/9badfde9c80b462331ca0c567fd892108120374815f0217928f1f02ee811/azure-mgmt-compute-12.0.0.zip
 Summary  : Microsoft Azure Compute Management Client Library for Python
